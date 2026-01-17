@@ -1,0 +1,3 @@
+Videos with more views tends to have more likes, dislikes and comment count. 
+Videos with more likes also tends to increase dislikes.
+Videos with higher likes tends to have higher comments than vides with dislikes even though comment counts seems to increases with increase in both likes and dislikes.
