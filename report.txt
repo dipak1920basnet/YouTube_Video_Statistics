@@ -1,3 +1,33 @@
-Videos with more views tends to have more likes, dislikes and comment count. 
-Videos with more likes also tends to increase dislikes.
-Videos with higher likes tends to have higher comments than vides with dislikes even though comment counts seems to increases with increase in both likes and dislikes.
+Videos with higher view counts tend to have more likes, dislikes, and comments.
+
+Videos with more likes also tend to have more dislikes.
+
+Videos with higher likes generally receive more comments than videos with higher dislikes, although comment counts increase with increases in both likes and dislikes.
+
+In the US, the video published at 2006-07-23 08:24:11+00:00 has the maximum views for a single video. This is not the total view count for that publish time, but the maximum view count of an individual video.
+
+In the US, videos uploaded on Friday receive the most views, while videos uploaded on Saturday receive the least views.
+
+Childish Gambino – This Is America is the most viewed video in the US.
+
+There are 16,309 videos in the US with more than 1 million views.
+
+In the US, the longer the video title, the fewer views it tends to receive.
+
+In the US, the longer the length of the title, the fewer the views.
+
+The US has higher average views than Canada (CA).
+
+On average, US videos have higher like rates and higher dislike rates than CA videos.
+
+On average, CA videos have higher comment rates than US videos.
+
+In CA, the maximum views occur on Wednesday, while the minimum views occur on Monday.
+
+We can conclude that in the US, YouTube receives the most views on Sunday and the least views on Saturday.
+
+In total view count, the top category in the US is Music, while in CA it is Entertainment.
+
+From the results of both CA and US, we can observe that an increase in views leads to an increase in likes, as the correlation in both cases is above 0.8, which is close to 1.
+
+In both CA and US, an increase in views also leads to an increase in likes.
